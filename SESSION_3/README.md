@@ -1,8 +1,5 @@
 # **Hands-On-Epigenome-Wide-Analysis-EWASl** 
 
-**Joana Llauradó**, Predoctoral Researcher at the Barcelona Institute for Global Health (ISGlobal).  
-**Mariona Bustamante**,  Senior Research Scientist at the Barcelona Institute for Global Health (ISGlobal).  
-
 
 **Description:** 
 This hands-on exercise focuses on the analysis phase of an Epigenome-Wide Association Study (EWAS). 
@@ -10,7 +7,7 @@ Using preprocessed DNA methylation data, participants will learn how to identify
 an environmental exposure—such as smoking—and methylation levels across the genome.
 
 The data quality control (QC) step will not be assessed in this session. However, participants 
-can explore QC independently using the example code provided [here: insert link], which demonstrates h
+can explore QC independently using the example code provided, which demonstrates h
 ow to perform standard preprocessing and QC steps.
 
 During this practical, we will perform EWAS analysis and basic downstream interpretation to gain 
@@ -68,6 +65,7 @@ You can also click on each cell and press "*ctrl+enter*" (*cmd+enter* on Mac).
 Each time you run a block, you will see the output just below it. Th
 e information is usually always related to the last instruction, along with all 
 the `print()` commands in the code.
+
 
 
 
