@@ -1,4 +1,4 @@
-# **Hands-On-Epigenome-Wide-Analysis-EWASl** 
+# **Hands-On-Epigenome-Wide-Analysis-EWAS** 
 
 
 **Description:** 
@@ -15,9 +15,9 @@ biological insight from the results. Participants will learn how to run associat
 correct for multiple testing, visualize significant findings (e.g., using Manhattan and QQ plots), 
 and interpret the top CpG sites and enriched pathways related to the exposure of interest.
 
-**Considerations**: Public data from [link] It must be noted that this data is public and has been
+**Considerations**: Public data. It must be noted that this data is public and has been
 revied/selcetd to be able tor un this nalaysis in a short period of time. 
-Ewas data usually is upt to XXXX GB and a compute with enough memory or clsuter is nneded
+Ewas data usually is up to 20 GB and a compute with enough memory or clsuter is nneded
 to run this nalaysis. Also the time needed is higher than the one for this Hands-on. 
 
 # Repository Guide 
@@ -65,6 +65,7 @@ You can also click on each cell and press "*ctrl+enter*" (*cmd+enter* on Mac).
 Each time you run a block, you will see the output just below it. Th
 e information is usually always related to the last instruction, along with all 
 the `print()` commands in the code.
+
 
 
 
